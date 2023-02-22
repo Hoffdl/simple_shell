@@ -297,5 +297,6 @@ Building a test suite to check our own code
 
 Authors
 
-Ikegwuuomu Henry
+Ikegwuonu Henry
+
 Esther Fashanu
